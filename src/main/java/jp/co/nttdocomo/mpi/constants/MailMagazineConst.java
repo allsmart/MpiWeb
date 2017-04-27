@@ -11,6 +11,6 @@ public class MailMagazineConst {
     /**
      * サンプル文字列。
      */
-    public static final String SAMPLE_STR = "mpitesttest";
+    public static final String SAMPLE_STR = "mpitest123";
 
 }
